@@ -1,2 +1,2 @@
 # Gallery
-Projeto Galeria de Fotos
+Projeto Galeria de Fotos desenvolvido com SASS
